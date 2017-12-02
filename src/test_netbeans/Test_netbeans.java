@@ -16,8 +16,8 @@ public class Test_netbeans {
      */
     public static void main(String[] args) {
         System.out.println("こんにちは");
-        System.out.println(sum(1,3));
-        System.out.println(sum1(1,3,5));
+        System.out.println(sum(10,5));
+        System.out.println(sum1(10,5,5));
         System.out.println(sum2(1,3,5,7));
     }
     
