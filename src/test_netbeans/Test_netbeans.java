@@ -18,6 +18,7 @@ public class Test_netbeans {
         System.out.println("こんにちは");
         System.out.println(sum(1,3));
         System.out.println(sum1(1,3,5));
+        System.out.println(sum2(1,3,5,7));
     }
     
     static int sum(int i,int j){
@@ -25,6 +26,9 @@ public class Test_netbeans {
     }
     static int sum1(int i,int j,int k){
         return i+j+k;
+    }
+    static int sum2(int i,int j,int k,int l){
+        return i+j+k+l;
     }
     
     
