@@ -15,7 +15,7 @@ public class Test_netbeans {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("おはよう");
+        System.out.println("こんばんわ");
     }
     
 }
