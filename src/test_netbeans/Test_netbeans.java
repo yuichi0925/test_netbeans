@@ -19,7 +19,6 @@ public class Test_netbeans {
         System.out.println(sum(10,5));
         System.out.println(sum1(10,5,5));
         System.out.println(sum2(1,3,5,7));
-        System.out.println(sum2(1,3,5,7));
     }
     
     static int sum(int i,int j){
