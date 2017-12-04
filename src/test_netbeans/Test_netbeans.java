@@ -16,5 +16,6 @@ public class Test_netbeans {
      */
     public static void main(String[] args) {
         System.out.println("こんにちは");
+        System.out.println("おはよう");
     }
 }
